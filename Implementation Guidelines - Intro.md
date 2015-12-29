@@ -66,15 +66,6 @@ Depending on your app category the definition of exact what internal integration
 
 How do you choose the right mobile service based on mobile drivers? We can begin by looking at the relative capability fit of each App Cloud Mobile Service to the drivers identified above. 
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg .tg-f4h2{font-size:medium;font-family:Arial, Helvetica, sans-serif !important;;text-align:center;vertical-align:top}
-.tg .tg-g0ut{font-weight:bold;font-size:medium;font-family:Arial, Helvetica, sans-serif !important;;background-color:#cbcefb;text-align:center;vertical-align:top}
-.tg .tg-xxrt{font-weight:bold;font-size:medium;font-family:Arial, Helvetica, sans-serif !important;;background-color:#ffcc67;text-align:center;vertical-align:top}
-.tg .tg-xozw{font-weight:bold;background-color:#ffcc67;text-align:center;vertical-align:top}
-</style>
 <table class="tg">
   <tr>
     <th class="tg-g0ut">UI<br>Branding</th>
@@ -135,18 +126,6 @@ How do you choose the right mobile service based on mobile drivers? We can begin
 
 We can then take this information to map a relative importance/service fit of 1-3, with 1 representing the least important, and 3 representing the most.
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg .tg-f4h2{font-size:medium;font-family:Arial, Helvetica, sans-serif !important;;text-align:center;vertical-align:top}
-.tg .tg-baqh{text-align:center;vertical-align:top}
-.tg .tg-f2to{font-weight:bold;background-color:#646809;text-align:center;vertical-align:top}
-.tg .tg-yw4l{vertical-align:top}
-.tg .tg-g0ut{font-weight:bold;font-size:medium;font-family:Arial, Helvetica, sans-serif !important;;background-color:#cbcefb;text-align:center;vertical-align:top}
-.tg .tg-xxrt{font-weight:bold;font-size:medium;font-family:Arial, Helvetica, sans-serif !important;;background-color:#ffcc67;text-align:center;vertical-align:top}
-.tg .tg-xozw{font-weight:bold;background-color:#ffcc67;text-align:center;vertical-align:top}
-</style>
 <table class="tg">
   <tr>
     <th class="tg-yw4l"></th>
@@ -225,21 +204,9 @@ And finally, map the relative importance to available mobile services to provide
 
 
 <!-- 
-Use this to generate the tables
+Use this to generate the tables: http://www.tablesgenerator.com/html_tables#
 -->
 
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;}
-.tg .tg-f4h2{font-size:medium;font-family:Arial, Helvetica, sans-serif !important;;text-align:center;vertical-align:top}
-.tg .tg-yzt1{background-color:#efefef;vertical-align:top}
-.tg .tg-8bad{font-weight:bold;font-size:medium;font-family:Arial, Helvetica, sans-serif !important;;background-color:#999903;text-align:center;vertical-align:top}
-.tg .tg-sqxi{font-size:medium;font-family:Arial, Helvetica, sans-serif !important;;background-color:#efefef;text-align:center;vertical-align:top}
-.tg .tg-g0ut{font-weight:bold;font-size:medium;font-family:Arial, Helvetica, sans-serif !important;;background-color:#cbcefb;text-align:center;vertical-align:top}
-.tg .tg-xxrt{font-weight:bold;font-size:medium;font-family:Arial, Helvetica, sans-serif !important;;background-color:#ffcc67;text-align:center;vertical-align:top}
-.tg .tg-xozw{font-weight:bold;background-color:#ffcc67;text-align:center;vertical-align:top}
-</style>
 <table class="tg">
   <tr>
     <th class="tg-sqxi"></th>
